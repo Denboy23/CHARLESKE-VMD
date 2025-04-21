@@ -1,5 +1,5 @@
 {
-  "name":"CHARLESKE-VMD",
+  "name":"𝐷𝐸ℕ𝐵𝙊𝑌☆-VMD",
   "description":"Best whatsapp bot💥 developed by Charles ke🇰🇪",
   "keywords":["bot","node","baileys","whatsapp"],
   "logo":"https://ibb.co/q70RyBd",
@@ -33,7 +33,7 @@
   "AUTO_REACT":
     {
       "description":"Enter yes for your bot to auto react",
-      "value":"yes",
+      "value":"no",
       "required":false
     },
 "ANTICALL":
@@ -58,7 +58,7 @@
     "BOT_NAME" : {
        
       "description":"put A name for your bot",
-      "value":"𝐂𝐇𝐀𝐑𝐋𝐄𝐒𝐊𝐄-VMD",
+      "value":"𝐷𝐸ℕ𝐵𝙊𝑌☆-VMD",
       "required":false
 
     } ,
@@ -87,8 +87,8 @@
 	  ,
     "SESSION_ID":
     {
-      "description":"put your session ID , the code you receive after scanning Qr code",   
-      "value":"",
+      "description":"eyJub2lzZUtleSI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiMEJhWnhUbEc1MGt5eE9VR2tDc1lQdG00MXJGM3hkb25ERitncmZQOUpFWT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoieUhlN1BZemI5bmVadGpTeWZQaWRqWHJwMi9mNWc5elN6U1hHNW1vMnp4az0ifX0sInBhaXJpbmdFcGhlbWVyYWxLZXlQYWlyIjp7InByaXZhdGUiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJjQjQwVXZPdTFoQXZ5MHdzU3FWZVBHSzN5NDljTHVhQ3pQcVV4dG1qemxRPSJ9LCJwdWJsaWMiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJuOTBKbTBEeVoyTVpZOU00MGY5WUxjdDl4cEZtYVo3eDJ4WGdCelp3TGg4PSJ9fSwic2lnbmVkSWRlbnRpdHlLZXkiOnsicHJpdmF0ZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IkFOM2pCTXpibjhONmdQcU90NlFCOTc5TWV6UWpCUkp5Q3VxR3grVHM5bVk9In0sInB1YmxpYyI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6IlpXNGVkMGtia0RCTVJqQ2o2QnFwbm8zYzl2NjFkSjU2bC9Nc0JyTHBVQVk9In19LCJzaWduZWRQcmVLZXkiOnsia2V5UGFpciI6eyJwcml2YXRlIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiOE5McUxpc2RHVHJPQysyZDFCV3h6emthSExHWDVBRURHemduZTVQQWdFUT0ifSwicHVibGljIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoicjd4U3oxdmFOdjRZcHRTUnlQRDBhUUptdDNBQkpMQW5ISFhqNlQ5d2J3az0ifX0sInNpZ25hdHVyZSI6eyJ0eXBlIjoiQnVmZmVyIiwiZGF0YSI6InRpQTZXdEtNckduaXZaT3RZUmpuWUZ5bVVpakNLSkRaengrSDdTOFBDSWlUaEtkYlFPWGQvUjJBcmRacGFEY2ZMSkZXdHJQcExTTnNOT296cU9raUNnPT0ifSwia2V5SWQiOjF9LCJyZWdpc3RyYXRpb25JZCI6NjUsImFkdlNlY3JldEtleSI6IkdreGtRWDFxSEMwWkt1RVo3bzluOWxrNkZIRDhvb2Fka3pwM0JRN21DL1k9IiwicHJvY2Vzc2VkSGlzdG9yeU1lc3NhZ2VzIjpbeyJrZXkiOnsicmVtb3RlSmlkIjoiMjYzNzEwNzgxNzk1QHMud2hhdHNhcHAubmV0IiwiZnJvbU1lIjp0cnVlLCJpZCI6Ijk4QjY2MjRGNjczNkNBMTIxNzQ4MjY2RjE2Qjc4N0M3In0sIm1lc3NhZ2VUaW1lc3RhbXAiOjE3NDUyNDgxNDh9LHsia2V5Ijp7InJlbW90ZUppZCI6IjI2MzcxMDc4MTc5NUBzLndoYXRzYXBwLm5ldCIsImZyb21NZSI6dHJ1ZSwiaWQiOiI1MTU5MDM2QUNDMTA0MDkwQjQ1RUY1RjU2OTkzQjlGNyJ9LCJtZXNzYWdlVGltZXN0YW1wIjoxNzQ1MjQ4MTgwfV0sIm5leHRQcmVLZXlJZCI6MzEsImZpcnN0VW51cGxvYWRlZFByZUtleUlkIjozMSwiYWNjb3VudFN5bmNDb3VudGVyIjoxLCJhY2NvdW50U2V0dGluZ3MiOnsidW5hcmNoaXZlQ2hhdHMiOmZhbHNlfSwiZGV2aWNlSWQiOiJtalhSbG50NVJweVJrMVVoekttU3FnIiwicGhvbmVJZCI6IjNmNDU4NDZkLTNmYWEtNGRjNS1iYmJhLTk3ZjVkYjg4OWJhYyIsImlkZW50aXR5SWQiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJSTWN5VmV2QWw1cVVJV0UvM1pHUFBvZjRmM1U9In0sInJlZ2lzdGVyZWQiOnRydWUsImJhY2t1cFRva2VuIjp7InR5cGUiOiJCdWZmZXIiLCJkYXRhIjoiSzQycE43ZXhRWnFCTTA0dXA1Q1ZaTlFXNFNVPSJ9LCJyZWdpc3RyYXRpb24iOnt9LCJwYWlyaW5nQ29kZSI6IllMOFhRRTMxIiwibWUiOnsiaWQiOiIyNjM3MTA3ODE3OTU6NDdAcy53aGF0c2FwcC5uZXQiLCJuYW1lIjoi8J2Qt/CdlIXwnZGMIn0sImFjY291bnQiOnsiZGV0YWlscyI6IkNOL08vUllRK2I2WndBWVlBeUFBS0FBPSIsImFjY291bnRTaWduYXR1cmVLZXkiOiI3ZjgwVE9FaXI5enBBbHpKWHAxUldoTUowSmpBdSttQjU5YlpNc3F1M2hrPSIsImFjY291bnRTaWduYXR1cmUiOiJNVzNLai9iUHdOY04wUkZJVE9RRWYrTjJ1Qm5ZcWhDTDBPMDg4Wlc0RW1zYlJ1bVN4NmFRclBMNEN0SDZndjBVSnQrUjFTTDd5Q3NQenlTS1N1czFDdz09IiwiZGV2aWNlU2lnbmF0dXJlIjoiNnJDcjNWcGdEc25qbytCT1NsaEQ4VXdlTGtaVzhmRW5RYlNmRlhYdkFGcnl4RWM5TGNobmFSNVhyaXg0S2t5NVg4emlxY2JrdCt0emhPYWZRU3RJQmc9PSJ9LCJzaWduYWxJZGVudGl0aWVzIjpbeyJpZGVudGlmaWVyIjp7Im5hbWUiOiIyNjM3MTA3ODE3OTU6NDdAcy53aGF0c2FwcC5uZXQiLCJkZXZpY2VJZCI6MH0sImlkZW50aWZpZXJLZXkiOnsidHlwZSI6IkJ1ZmZlciIsImRhdGEiOiJCZTMvTkV6aElxL2M2UUpjeVY2ZFVWb1RDZENZd0x2cGdlZlcyVExLcnQ0WiJ9fV0sInBsYXRmb3JtIjoic21iYSIsImxhc3RBY2NvdW50U3luY1RpbWVzdGFtcCI6MTc0NTI0ODEzNiwibXlBcHBTdGF0ZUtleUlkIjoiQUFBQUFPS2EifQ==",   
+      "value":"true",
       "required":true
       
     },
@@ -97,14 +97,14 @@
     
     "desc": "Your Name",
     "required": false,
-    "value": "©charles"
+    "value": "©𝐷𝐸ℕ𝐵𝙊𝑌☆"
   },
     "NUMERO_OWNER":
   {
     
     "desc": "Your number , dont put '+' and put you area code(exemple of kenya '254')",
     "required":true,
-    "value": "254759626063"
+    "value": "263710781795"
   },
     "WARN_COUNT":
   {
@@ -120,7 +120,7 @@
   },
   "PRESENCE":{
     "description":"Mark your presence: 1 for online even if you are not. 2 to indicate that you are currently typing a message. 3 to indicate that you are currently recording an audio. Or leave the field blank to indicate your real state.",
-    "value":"",
+    "value":"3",
     "required": false
   },
   "ANTI_DELETE_MESSAGE" : {
